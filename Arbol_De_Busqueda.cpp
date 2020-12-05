@@ -226,7 +226,8 @@ int alturaABB(ABB arbol){
             return altder+1;
         }
     }
-    
+    int alturatotal = altizq + altder;
+    cout<<"La altura total es de: "<<alturatotal;
 }
 
 
